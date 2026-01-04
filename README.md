@@ -1,60 +1,33 @@
-# Online Marketplace System for Buying and Selling New and Used Products
+# Online Marketplace System
 
-## 📌 Project Overview
-The Online Marketplace System for Buying and Selling New and Used Products is a web-based application developed to provide a digital platform where users can easily buy and sell products online.
+## 📌 Project Description
+The Online Marketplace System is a web-based application developed to facilitate the buying and selling of new and used products through an online platform. The system allows users to post product listings, browse available items, and manage advertisements efficiently.
 
-This system allows sellers to post advertisements for both new and used products, while buyers can browse listings, view detailed product information, and communicate with sellers. Products are organized into categories and subcategories to improve search and navigation.
-
-The platform includes an administrator module responsible for managing users, approving advertisements, and maintaining system security. Online payment functionality enables safe and convenient transactions, allowing users to complete purchases anytime and from anywhere.
-
-The project is designed mainly for academic and learning purposes, and additional advanced features can be implemented in the future once the core system is fully functional.
+The platform categorizes products to improve searchability and usability, providing a structured and user-friendly environment for online transactions. This project demonstrates practical implementation of web development concepts and database management.
 
 ---
 
 ## 🎯 Objectives
-- To develop an online platform for buying and selling new and used products  
-- To provide an easy-to-use classified marketplace system  
-- To ensure secure user authentication and transaction management  
-
----
-
-## ⚙️ Functional Requirements
-- User registration and login  
-- User profile management  
-- Product posting for new and used items  
-- Product search and category-based filtering  
-- Viewing detailed product information  
-- Buyer and seller communication  
-- Order placement and management  
-- Seller notification for new orders  
-- Rating and review system for completed transactions  
-- Automatic shipping cost calculation  
-
----
-
-## 🧩 Non-Functional Requirements
-- Secure and reliable payment process  
-- Simple, intuitive, and responsive user interface  
-- Admin approval required for product advertisements  
-- Secure password management  
-- Search optimization for better performance  
+- To design and develop an online marketplace platform
+- To manage product listings using categories
+- To provide a user-friendly interface for users
 
 ---
 
 ## 🛠️ Technologies Used
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- MySQL  
-- Bootstrap  
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Bootstrap
 
 ---
 
 ## 👨‍💻 Developed By
-**Ibn Abbas**
+Shagar Rahu
 
 ---
 
 ## 📚 Project Type
-Academic / Learning Project
+College Project Proposal
